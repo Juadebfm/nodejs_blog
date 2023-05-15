@@ -283,6 +283,7 @@ img {
 }
 
 .searchBar {
+  width: 50%;
   visibility: hidden;
   transform: translateY(-100px);
   background: var(--black);
