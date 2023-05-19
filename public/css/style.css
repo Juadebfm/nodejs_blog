@@ -316,6 +316,12 @@ img {
   margin: 0;
 }
 
+.admin-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .admin-post-controls form {
   display: inline-block;
 }
